@@ -1,0 +1,10 @@
+README.md
+setup.py
+src/CookieMaster/Objectification.py
+src/CookieMaster/Preprocess.py
+src/CookieMaster/Substitution.py
+src/CookieMaster/__init__.py
+src/CookieMaster.egg-info/PKG-INFO
+src/CookieMaster.egg-info/SOURCES.txt
+src/CookieMaster.egg-info/dependency_links.txt
+src/CookieMaster.egg-info/top_level.txt
